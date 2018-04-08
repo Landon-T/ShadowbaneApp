@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShadowbaneApp</string>
+    <string name="MenuB1">Create Character</string>
+    <string name="CreationS1">Enter your name:</string>
+    <string name="CreationS1Hint">name</string>
+    <string name="CreationS2">Choose your class:</string>
+</resources>
